@@ -1,1 +1,1 @@
-AES implementation in java
+Java implementations of some cryptosystems like AES and RSA.
